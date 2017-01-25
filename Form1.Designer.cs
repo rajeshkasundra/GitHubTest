@@ -35,9 +35,9 @@
             // 
             this.btnHello.Location = new System.Drawing.Point(85, 122);
             this.btnHello.Name = "btnHello";
-            this.btnHello.Size = new System.Drawing.Size(75, 23);
+            this.btnHello.Size = new System.Drawing.Size(115, 23);
             this.btnHello.TabIndex = 0;
-            this.btnHello.Text = "Hello!";
+            this.btnHello.Text = "Hello Branch2!";
             this.btnHello.UseVisualStyleBackColor = true;
             this.btnHello.Click += new System.EventHandler(this.btnHello_Click);
             // 
